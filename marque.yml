@@ -1,5 +1,11 @@
 build:
   version: 1.0
 author:
-  name: "Marque"
+  name: "adam updated mardi 21h00"
   email: "marque@exemple.com"
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: busrefresh
